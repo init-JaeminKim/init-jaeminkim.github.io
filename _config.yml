@@ -96,7 +96,7 @@ author:
   name             : "Jaemin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "어이, 젊은 친구, ***신사답게*** 코딩해!"
-  location         : "Emporia, Kansas, United States"
+  location         : "Emporia, KS"
   email            : contact@jaeminkim.me
   links:
     - label: "Email"
