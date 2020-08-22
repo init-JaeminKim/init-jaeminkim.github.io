@@ -1,7 +1,6 @@
 ---
 
 layout: categories
-
 title: intro
 
 ---
