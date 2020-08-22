@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaemin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "수포자 공대생의 기'좆'같은 코딩. 내가 코딩을 스물넷에 시작했다. 어이, 젊은 친구, ***신사답게*** 코딩해!"
+  location         : "Emporia, Kansas, United States"
+  email            : contact@jaeminkim.me
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
