@@ -1,6 +1,0 @@
----
-
-layout: categories
-title: intro
-
----
