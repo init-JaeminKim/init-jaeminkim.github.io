@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "어아, 젊은 친구,|신사답게 코딩해"
+title                    : "신사답게 코딩해"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jaemin Kim"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jaemin Kim"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "신사답게 코딩해!"
+  bio              : "어이, 젊은 친구, 신사답게 코딩해!"
   location         : "Emporia, KS"
   email            : contact@jaeminkim.me
   links:
