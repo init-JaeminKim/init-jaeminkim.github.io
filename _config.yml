@@ -287,4 +287,4 @@ defaults:
         caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
       actions:
         - label: "Download"
-          url: "https://github.com"
+        url: "https://github.com"
