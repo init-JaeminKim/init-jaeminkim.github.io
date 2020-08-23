@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "Jaemin Kim"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "어이, 젊은 친구, 신사답게 코딩해!"
+  bio              : "어이 젊은 친구들,
+                      신사답게 코딩해."
   location         : "Emporia, KS"
   email            : contact@jaeminkim.me
   links:
