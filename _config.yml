@@ -283,4 +283,4 @@ defaults:
       header:
         overlay_image: /assets/images/kc.jpg
         overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-        read_time: true
+        show_excerpts: true
