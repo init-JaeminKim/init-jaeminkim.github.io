@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jaemin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "신사답게 코딩해!."
+  bio              : "신사답게 코딩해!"
   location         : "Emporia, KS"
   email            : contact@jaeminkim.me
   links:
