@@ -1,12 +1,43 @@
 ---
-title: "Post: Notice"
-date:   2017-05-06 13:45:35
+title: "Find Different Elements Between Two Vectors in C++"
+date:   2020-09-05 13:45:35
 
 categories:
-  - test
+  - C++
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+Here are two vectors.
+
+```cpp
+string solution(vector<string> applicants, vector<string> successful)
+{
+  //do someting
+}
+```
+
+Before comparing, the elements in both vetors need to be in order with `sort()`.
+
+```cpp
+  sort(applicants.begin(), applicants.end());
+  sort(successful.begin(), successful.end());
+```
+
+Now, it's ready to compare the indexes of two vetors. If any differences are founded within `for()` statement, the index is returned.
+
+```cpp
+for(int i = 0; i < successful.size(); ++i)
+{
+  if(applicants[i] != successful[i])
+  {
+    return applicants[i];
+  }
+}
+```
+
+
+
+
+
 
 When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
