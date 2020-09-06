@@ -51,7 +51,7 @@ string solution(vector<string> applicants, vector<string> successful)
 }
 ```
 
-**Note:** on an average the cost of search, insert and delete from `Hash table` is O(1).
+**Note:** On an average the cost of search, insert and delete from `Hash table` is O(1).
 {: .notice--info}
 
 Then, increment the _values_ of each _key_ in solution_map. On the same principle, decrement the _values_ of each _key_ which are in "successful".
