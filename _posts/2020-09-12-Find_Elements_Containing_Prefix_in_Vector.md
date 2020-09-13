@@ -14,7 +14,7 @@ vector <string> vec {"620", "762074223", "6205524421"};
 
 The first element in the vector is the prefix, and the rest may have the prefix or not. If an element has the prefix, return **TRUE**.
 
-For better performance, you can use `std::sort()`. Then, Check if the elements have the prefix with `string::find()`.
+For better performance, you can use `std::sort()`. Then, check if the elements have the prefix with `string::find()`.
 
 ```cpp
 bool solution(vector<string> vec) {
