@@ -17,7 +17,7 @@ You've got the free toppings you can put on a pizza. You may want to select at l
 | Veggies  | Onion, Mushroom          |
 | Cheeses  | Provolone                |
 
-First of all, we have to consider the case that only one topping is selected. So, the number of toppings in the same type will be counted, and add 1 to the count for unchosen type of topping.
+First of all, we have to consider the case that only one topping is selected. So, the number of toppings in the same type will be counted, and add 1 to the count for each unchosen type of topping.
 
 ```cpp
 int solution(vector<vector<string>> toppings) {
