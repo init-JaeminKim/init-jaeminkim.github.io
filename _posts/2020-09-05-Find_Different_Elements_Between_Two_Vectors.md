@@ -25,6 +25,7 @@ Before comparing, the elements in both vetors need to be in order with `std::sor
   sort(applicants.begin(), applicants.end());
   sort(successful.begin(), successful.end());
 ```
+
 **Note:** The time complexity of `std::sort()` is _O(n log n)_.
 {: .notice--info}
 
