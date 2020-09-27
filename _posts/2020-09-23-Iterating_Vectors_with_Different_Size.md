@@ -16,7 +16,7 @@ vector<int> solution(vector<int> answerSheet) {
 }
 ```
 
-To grade the test, the correct answers are compared with answerSheet. If the size of correct answers is larger or smaller than answerSheet, it will make index error. So, we can use `Modulus operation`.
+To grade the test, the correct answers are compared with answerSheet. If the size of correct answers is larger or smaller than answerSheet, it will make index error. So, we can use property of `Modulus operation`.
 
 **Note:** The result of the modulus operation is 0 ~ N-1.
 {: .notice--info}
@@ -33,4 +33,4 @@ for(int i=0; i<answerSheetheet.size(); i++){
   }
 ```
 
-Now, we can iterate three vectors at the same time and count the number of right answers.
+Now, we can iterate three vectors at the same time and count the number of right answers for each test takers.
