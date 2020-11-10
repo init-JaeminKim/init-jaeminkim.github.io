@@ -17,7 +17,7 @@ To store our valuable API key, create `.env` file in the root directory of your 
 
 +-- public  
 +-- src  
-+--`.env`  
++--`.env` ← `Here`  
 +--.gitignore  
 +--package-lock.json
 
@@ -43,7 +43,7 @@ Don't forget to prepend `REACT_APP_` to the name of API key, and don't write sem
 
 ## 4. Call API with a secure key
 
-Now, you can freely, securely call API.
+Now, you can securely call API.
 
 ```javascript
 const API_KEY = process.env.REACT_APP_API_KEY;
