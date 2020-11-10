@@ -1,5 +1,5 @@
 ---
-title: "Iterating Vectors with Different Size"
+title: "[C++]Iterating Vectors with Different Size"
 date:   2020-09-23 15:57:44
 
 categories:

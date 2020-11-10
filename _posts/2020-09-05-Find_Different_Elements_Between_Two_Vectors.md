@@ -1,5 +1,5 @@
 ---
-title: "Find Different Elements Between Two Vectors in C++"
+title: "[C++]Find Different Elements Between Two Vectors in C++"
 date:   2020-09-05 13:45:35
 
 categories:

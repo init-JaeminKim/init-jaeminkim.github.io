@@ -1,5 +1,5 @@
 ---
-title: "Number of Cases in 2D Vector"
+title: "[C++]Number of Cases in 2D Vector"
 date:   2020-09-13 14:37:56
 
 categories:

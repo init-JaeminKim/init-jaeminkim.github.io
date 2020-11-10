@@ -1,5 +1,5 @@
 ---
-title: "Check Elements Containing Prefix in Vector"
+title: "[C++]Check Elements Containing Prefix in Vector"
 date:   2020-09-12 12:21:20
 
 categories:
